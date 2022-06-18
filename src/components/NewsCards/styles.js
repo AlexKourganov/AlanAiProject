@@ -39,6 +39,7 @@ const styles = makeStyles((theme)=>({
     },
     cardSaying:{
        
+        
         [theme.breakpoints.down('sm')]: {
            fontSize:'1rem'
         },
