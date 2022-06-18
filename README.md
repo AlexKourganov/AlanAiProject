@@ -1,3 +1,23 @@
+# Alan-AI News :robot:
+<p align="center">
+  <img src="https://i.ibb.co/M12tSkq/MockUp.png">
+</p>
+
+## Technologies
+
+
+<img src="https://icon-library.com/images/react-icon/react-icon-29.jpg" width="50" height="50" /> <img src="https://material-ui.com/static/logo.png" width="50" height="50" /> <img src="https://avatars.githubusercontent.com/u/54960780?s=200&v=4" width="50" height="50" />
+
+
+
+REACT/Material-UI/ALAN-AI
+
+## Summary
+This is an News site that is controlled with your voice using AlAN-AI to process your commands.
+
+## Live Version
+https://tender-roentgen-df99fe.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
