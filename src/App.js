@@ -45,7 +45,7 @@ function App() {
   return (
     <div className="App">
      <div className={classes.logoContainer}>
-       <img src="https://alan.app/voice/images/branding_page/logo-horizontal/grayscale/alan-logo-horizontal-grayscale.png" className={classes.alanLogo} alt="alan logo"/>
+       <img src="https://i.ibb.co/7jhBhMY/alan-logo-horizontal-color.png" className={classes.alanLogo} alt="alan logo"/>
      </div>
      <NewsCards articles={newsArticles} activeArticle={activeArticle}/>
     </div>
