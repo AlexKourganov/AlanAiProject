@@ -43,6 +43,11 @@ const styles = makeStyles((theme)=>({
         [theme.breakpoints.down('sm')]: {
            fontSize:'1rem'
         },
+    },
+    goBack:{
+        width:'100%',
+        marginTop:'30px',
+        textAlign:'center'
     }
     
 }));

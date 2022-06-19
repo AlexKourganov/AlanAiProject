@@ -33,8 +33,9 @@ const NewsCards = ({articles,activeArticle}) => {
                         </div>
                     </Grid>
                 ))}
-
+                <Typography variant="h5" className={classes.goBack} >To Return Home Say:"Go Back"</Typography>
              </Grid>
+             
         </Grow>
         );
     }
