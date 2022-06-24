@@ -25,7 +25,7 @@ const NewsCard = ({
     
   }, [])
   useEffect(() => {
-    console.log(elRefs);
+    
     if(i === activeArticle && elRefs[activeArticle]){
       scrollToRef(elRefs[activeArticle]);
     }
